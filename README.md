@@ -1,1 +1,24 @@
-Social media platforms have become an essential means for communicating feelings to the entire world due to rapid expansion in the Internet era and Nowadays people can express their feelings and thoughts using pictures, videos, audio, or textual content and this led to a massive amount of unstructured data generated from this Social media platforms and this data are important and could be used in different manners as we can preprocess this data and perform sentiment analysis or emotion detection that might operate on single sentences, paragraphs, or even entire articles and our goal is to know the feelings of the author such as sadness, anger, fear, sympathy, surprise, etc. The Arabic Egyptian Dialect Nile University Dataset, comprised of 10,065 tweets, The tweets of NU were categorized into 8 emotions (sadness, anger, fear, sympathy, joy, surprise, love, and none) The term “none” was used to label neutral tweets. The tweets were collected using the” Olympics” hashtags from Egypt in the period between Jul 2016 and Aug 2016. Emotion analysis could help decision makers understand and respond to the public reactions and A combination of Arabic text preprocessing techniques was tested with machine learning and deep learning models are used in this paper to achieve this goal
+- **Social media platforms** have become an essential means for communicating feelings to the entire world due to rapid expansion in the Internet era.
+- Nowadays, people can express their feelings and thoughts using **pictures, videos, audio, or textual content**, leading to a massive amount of unstructured data.
+- This **social media data** is important and can be used in various ways:
+  - Preprocessing the data for **sentiment analysis** or **emotion detection**.
+  - Emotion detection can operate on single sentences, paragraphs, or even entire articles.
+  - The goal is to detect the feelings of the author, such as:
+    - Sadness
+    - Anger
+    - Fear
+    - Sympathy
+    - Surprise
+    - Joy
+    - Love
+    - None (Neutral)
+    
+- The **Arabic Egyptian Dialect Nile University Dataset**:
+  - Comprised of **10,065 tweets**.
+  - The tweets were categorized into **8 emotions**: sadness, anger, fear, sympathy, joy, surprise, love, and none.
+  - The term “none” was used to label **neutral tweets**.
+  - Tweets were collected using the **“Olympics” hashtags** from Egypt during the period between **July 2016 and August 2016**.
+
+- **Emotion analysis** could help decision-makers understand and respond to public reactions.
+
+- A combination of **Arabic text preprocessing techniques** was tested with **machine learning** and **deep learning** models to achieve the goal of emotion detection.
